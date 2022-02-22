@@ -5,7 +5,6 @@
 //  Created by r.akhmadeev on 21.02.2022.
 //
 
-import Metal
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
